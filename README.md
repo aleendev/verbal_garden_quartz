@@ -1,6 +1,7 @@
 # ugh
 > no deployment?
-![https://i.postimg.cc/x8BzBxvc/Ed-cowboy-HD-screenshot-anime.png]
+
+![](https://i.postimg.cc/x8BzBxvc/Ed-cowboy-HD-screenshot-anime.png)
 
 
 # Quartz
