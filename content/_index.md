@@ -1,7 +1,8 @@
 ---
-title: welcome to the verbal dimension 🫧
+title: welcome to my portal 🫧
 enableToc: false
 ---
+# hiyori
 
 Hiii, I'm Hiyori \(@^0^@)/  welcome to *my digital garden* where I write stuff such as:
 - me learning stuff.
